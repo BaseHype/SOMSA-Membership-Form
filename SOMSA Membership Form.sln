@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMSA Membership Form", "SOMSA Membership Form\SOMSA Membership Form.csproj", "{8332DA76-8DDC-4C5B-BCD9-436D789D43E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{0803A028-8486-48BC-9458-4FFE18F3FCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8332DA76-8DDC-4C5B-BCD9-436D789D43E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8332DA76-8DDC-4C5B-BCD9-436D789D43E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8332DA76-8DDC-4C5B-BCD9-436D789D43E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8332DA76-8DDC-4C5B-BCD9-436D789D43E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0803A028-8486-48BC-9458-4FFE18F3FCEC}.Debug|Any CPU.ActiveCfg = Debug
+		{0803A028-8486-48BC-9458-4FFE18F3FCEC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7733B40-BE35-4535-86DE-1AE714B5C7A5}
+	EndGlobalSection
+EndGlobal
