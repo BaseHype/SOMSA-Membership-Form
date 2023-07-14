@@ -1,2 +1,2 @@
 # SOMSA-Membership-Form
-A database project were member can be easily captured, edited and deleted.
+A database project were members can be easily captured, edited and deleted.
